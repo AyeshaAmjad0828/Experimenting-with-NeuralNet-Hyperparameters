@@ -16,3 +16,5 @@
    - Added batchnorm and drop out layers.
   
  Here is a link to colab with executed code: https://colab.research.google.com/drive/1GhxnEjGDYAxbqZMs1YGrQp3xr08wUQnb?usp=sharing
+
+ P.S. Keras-Experimenting_Hyperparameters.ipynb is an experiment on MNIST data using keras instead. 
